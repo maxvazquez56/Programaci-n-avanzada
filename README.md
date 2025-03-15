@@ -40,10 +40,5 @@ El mensaje **"equipo los rafikis rifa mas que nadie"** se muestra en el display 
 
 santiago maximiliano vazquez espinosa y rafael alejandro hurtado vasconcelos
 
-## Versión
 
-1.0
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
