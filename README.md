@@ -38,7 +38,7 @@ El mensaje **"equipo los rafikis rifa mas que nadie"** se muestra en el display 
 
 ## Autor
 
-santiago maximiliano vazquez espinosa y rafael alejandro hurtado vasconcelos
+Santiago Maximiliano Vazquez Espinosa, Rafael Alejandro Hurtado Vasconcelos y Cristopher Ivan Lopez Duran
 
 
 
