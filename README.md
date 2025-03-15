@@ -1,4 +1,5 @@
 # Sprite de jardin de flores en Ensamblador
+#sprite de un marciano en Ensamblador 
 
 Este programa dibuja un sprite de un jardin de flores en un display de 16x16 píxeles y muestra el mensaje **"equipo los rafikis rifa mas que nadie"** en el display de texto. Está escrito en lenguaje ensamblador y es compatible con el simulador **ASM Simulator**.
 
