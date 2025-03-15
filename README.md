@@ -16,7 +16,7 @@ El código está escrito en ensamblador y se divide en las siguientes secciones:
 - **Inicialización**: Configura el stack pointer y los punteros a los displays.
 - **Subrutinas**: Incluye funciones para imprimir el mensaje y dibujar el sprite.
 
-### Sprite de la Flor Roja
+### Sprite del jardin de flores
 
 El sprite es una matriz de 16x16 píxeles, donde:
 - `0x04` representa el color rojo.
