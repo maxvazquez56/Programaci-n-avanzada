@@ -26,13 +26,6 @@ El sprite es una matriz de 16x16 píxeles, donde:
 
 El mensaje **"equipo los rafikis rifa mas que nadie"** se muestra en el display de texto.
 
-## Ejecución
-
-1. Copia y pega el código en el editor del simulador **ASM Simulator**.
-2. Haz clic en **Assemble** para compilar el código.
-3. Ejecuta el programa paso a paso o de forma continua.
-4. Observa cómo se muestra el mensaje y el sprite de un jardin de flores en el display.
-
 ## Requisitos
 
 - Simulador **ASM Simulator** (disponible en [ASM Simulator](https://parraman.github.io/asm-simulator/)).
@@ -40,6 +33,9 @@ El mensaje **"equipo los rafikis rifa mas que nadie"** se muestra en el display 
 ## Autor
 
 Santiago Maximiliano Vazquez Espinosa, Rafael Alejandro Hurtado Vasconcelos y Cristopher Ivan Lopez Duran
+
+## version
+1.0
 
 
 
